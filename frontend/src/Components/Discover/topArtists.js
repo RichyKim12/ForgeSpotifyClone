@@ -11,11 +11,6 @@ import { CssBaseline, Card, CardActions, CardContent, CardMedia, Grid, Container
 
 function TopArtists() {
 
-<<<<<<< HEAD
-=======
-
-
->>>>>>> main
     return <>
 
         <CssBaseline />
